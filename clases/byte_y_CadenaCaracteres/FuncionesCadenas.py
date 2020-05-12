@@ -65,7 +65,7 @@
 					#micadena.strip("a")
 #Funcion join()-->Une o anexa una cadena al final de CADA ELMENTO de otra,CadenaQueQuieroUnir.join(cadenaAlaQueSeUnira)
 				#Esta funcion ya itera por si sola, por lo que NO PUEDE estar dentro de un bucle for
-				#Ej:micadena="Hola "  "que tal".join(micadena) Resultado-> "Hque tal oque tallque talaque tal"
+				#Ej:micadena="Hola "  "que tal".join(micadena) Resultado-> "Hque tal o que tal que talaque tal"
 				#Ej2:micadena"Hola" ".".join(micadena) Resultado->"H.o.l.a."
 #Funcion partition()--> Indicandole un caracter separador, podemos divir una cadena en base a el,
 						#devolviendonos una tupla de cadenas IMPORTANTE, solo separa  partir de la primera aparicion del caracter

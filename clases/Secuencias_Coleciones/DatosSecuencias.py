@@ -1,4 +1,8 @@
 #Colecciones, listas, tuplas, coleccion de datos
+#Definicion de una lista,tupla y dicccionario:
+	#lista=[9,2,"pepe",10,'k'] --> MUITABLES
+	#mitupla=(1,2,3,4)		--> INMUTABLES
+	#miDiccionario={'one':1,'two':2,'three':3} --> MUTABLES
 
 #Nota 0: MUTABLE ->(Se pueden modificar/borrar los elementos de la secuencia)
 #			Ej:lista[2]=99
